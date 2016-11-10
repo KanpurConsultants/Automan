@@ -1,0 +1,9 @@
+; Field definition file for table: ADORecordset
+TAX_PER	number		1.00
+TAX_AMT	number		1.00
+docid	string	21	string sample value
+rate	number		1.00
+QTY	number		1.00
+TaxSur_Per	number		1.00
+TaxSur_AMT	number		1.00
+Prod_Name	string	40	string sample value

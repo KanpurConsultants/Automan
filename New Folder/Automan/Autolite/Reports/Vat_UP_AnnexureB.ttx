@@ -1,0 +1,23 @@
+; Field definition file for table: ADORecordset
+DocId	string	21	string sample value
+V_No	long		1
+Tax_Amt	number		1.00
+NAME	string	40	string sample value
+LstNo	string	30	string sample value
+Net_Amt	number		1.00
+Amount	number		1.00
+V_Date	datetime		Jan 5, 1994 1:23:45 PM
+Add1	string	40	string sample value
+Add2	string	40	string sample value
+CityName	string	25	string sample value
+L_Net_Amt	number		1.00
+L_TaxAmt	number		1.00
+SatAmt	number		1.00
+Qty_Rec	number		1.00
+L_SatAmt	number		1.00
+VAtCategoryCode	string	10	string sample value
+CountItem	long		1
+AssesmentYear	string	9	string sample value
+TaxPeriodEndingDate	string	8	string sample value
+Qty_Iss	number		1.00
+Item_Name	string	15	string sample value

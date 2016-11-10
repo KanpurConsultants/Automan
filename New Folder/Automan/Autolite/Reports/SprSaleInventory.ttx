@@ -1,0 +1,33 @@
+; Field definition file for table: ADORecordset
+Date	date		Jan 5, 1994
+V_No	string	18	string sample value
+Inv_No	string	18	string sample value
+Inv_Date	string	15	string sample value
+Part_No	string	22	string sample value
+Part_Name	string	40	string sample value
+Job_Age	string	7	string sample value
+Rate	number		1.00
+TB_OQty	number		1.00
+TB_OVal	number		1.00
+Re_TB	number		1.00
+Re_TBV	number		1.00
+Is_TB	number		1.00
+Is_TBV	number		1.00
+Tb_BQty	number		1.00
+TB_BVal	number		1.00
+TB_Val	number		1.00
+TP_OQty	number		1.00
+TP_OVal	number		1.00
+Re_TP	number		1.00
+Re_TPV	number		1.00
+Is_TP	number		1.00
+Is_TPV	number		1.00
+TP_BQty	number		1.00
+TP_BVal	number		1.00
+TP_Val	number		1.00
+moveper	number		1.00
+Net_Qty	number		1.00
+Net_Val	number		1.00
+Narr	string	30	string sample value
+mType	string	30	string sample value
+NDP	number		1.00

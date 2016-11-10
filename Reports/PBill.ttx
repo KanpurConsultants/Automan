@@ -1,0 +1,114 @@
+; Field definition file for table: ADORecordset
+Orig	string	1	string sample value
+AtKMsHrs	long		1
+Lab_D_Amt	number		1.00
+ReqDocID	string	21	string sample value
+Srl_No	short		1
+JobDocID	string	21	string sample value
+CrMemo	byte		1
+Model	string	25	string sample value
+RegNo	string	14	string sample value
+Chassis	string	20	string sample value
+DocId_InvSpr	string	21	string sample value
+DocID_InvLab	string	21	string sample value
+v_Date	string	11	string sample value
+Party_Code	string	8	string sample value
+Party_Name	string	40	string sample value
+Address	string	1	string sample value
+NamePrefix	string	4	string sample value
+Name	string	40	string sample value
+Add1	string	40	string sample value
+Add2	string	40	string sample value
+Add3	string	40	string sample value
+CityName	string	25	string sample value
+PIN	string	6	string sample value
+Phone	string	35	string sample value
+CSTNo	string	30	string sample value
+L_C	string	1	string sample value
+Form_Code	string	3	string sample value
+Remarks	string	1	string sample value
+SprAmt_MRP_TB	long		1
+SprAmt_MRP_TP	long		1
+OilAmt_MRP_TB	long		1
+OilAmt_MRP_TP	long		1
+SprAmt_TB	long		1
+SprAmt_TP	long		1
+OilAmt_TB	long		1
+OilAmt_TP	long		1
+D_Per_TB	long		1
+D_Amt_TB	long		1
+D_Per_TP	long		1
+D_Amt_TP	long		1
+D_Per_MRP_TB	long		1
+D_Amt_MRP_TB	long		1
+D_Per_MRP_TP	long		1
+D_Amt_MRP_TP	long		1
+Addition	long		1
+Gen_Sur_Per	long		1
+Gen_Sur_Amt	long		1
+Trans_Amt	long		1
+Tax_Per	long		1
+Tax_Amt	long		1
+Tax_AmtMRP	long		1
+Tax_Sur_Per	long		1
+Tax_Sur_Amt	long		1
+TaxSur_AmtMRP	long		1
+Packing	long		1
+TOT_Per	long		1
+Tot_Amt	long		1
+TOT_AmtMRP	long		1
+ReSalTax_Per	long		1
+ReSalTax_Amt	long		1
+Total_Amt	long		1
+Rounded	long		1
+Det_Tax	long		1
+GP_No	string	8	string sample value
+GP_Date	datetime		Jan 5, 1994 1:23:45 PM
+Printed_YN	long		1
+U_Name	string	10	string sample value
+U_EntDt	datetime		Jan 5, 1994 1:23:45 PM
+CancelYN	long		1
+LabAmt_TB	number		1.00
+LabAmt_TP	number		1.00
+Lab_TaxPer	number		1.00
+Lab_TaxAmt	number		1.00
+Lab_D_Amt	number		1.00
+Lab_RoundOff	number		1.00
+NetLab_Amt	number		1.00
+Part_No	string	22	string sample value
+Part_Name	string	40	string sample value
+Lub_Category	string	1	string sample value
+Godown	string	3	string sample value
+Qty_Doc	number		1.00
+Qty_Rec	number		1.00
+Qty_Iss	number		1.00
+Qty_Ret	number		1.00
+Tax_YN	byte		1
+MRP_YN	long		1
+Rate	number		1.00
+MRP_Rate	number		1.00
+Purpose	string	1	string sample value
+Part_SrlNo	string	20	string sample value
+Rate2	number		1.00
+MRP_Rate2	number		1.00
+Disc_Per2	number		1.00
+Disc_Amt2	number		1.00
+Amount2	number		1.00
+Net_Amt2	number		1.00
+Chrg_From	string	1	string sample value
+External_YN	long		1
+WorkShopInvFooter	memo		memo sample data
+SrvGatePass_On	string	1	string sample value
+SrvGatePass	byte		1
+TaxPer	number		1.00
+TaxAmt	number		1.00
+Job_No	long		1
+LastInvNoSuff	number		1.00
+LastLabInvNoSuff	number		1.00
+SatPer	number		1.00
+SatAmt	number		1.00
+SatAmt_H	long		1
+ReqNo	string	30	string sample value
+Disc_Per	number		1.00
+Disc_Amt	number		1.00
+Service_Tax	number		1.00

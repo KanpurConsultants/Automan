@@ -1,0 +1,6 @@
+; Field definition file for table: ADORecordset
+Trn_Type	string	1	string sample value
+DocID	string	21	string sample value
+QTY	number		1.00
+RATE	number		1.00
+Prod_Name	string	40	string sample value

@@ -1,0 +1,21 @@
+; Field definition file for table: ADORecordset
+TrnType	string	10	string sample value
+DocID	string	21	string sample value
+V_Date	datetime		Jan 5, 1994 1:23:45 PM
+TBAmt	number		1.00
+TBMRPAmt	number		1.00
+TPSprMRPAmt	number		1.00
+TPOilMRPAmt	number		1.00
+TPSprAmt	number		1.00
+TPOilAmt	number		1.00
+Packing	number		1.00
+TOT_Amt	number		1.00
+Total_Amt	number		1.00
+Form_Code	string	4	string sample value
+Form_Desc	string	30	string sample value
+L_C	string	8	string sample value
+Tax_Per	number		1.00
+Tax_Sur_Per	number		1.00
+TaxAmt	number		1.00
+TaxSurAmt	number		1.00
+Rounded	number		1.00

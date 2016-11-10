@@ -1,0 +1,7 @@
+; Field definition file for table: ADORecordset
+TBSal	number		1.00
+TaxPer	number		1.00
+SurchargePer	number		1.00
+TaxAmt	number		1.00
+SurchargeAmt	number		1.00
+SDTTOT	number		1.00

@@ -1,0 +1,56 @@
+; Field definition file for table: ADORecordset
+DocID	string	21	string sample value
+V_Type	string	5	string sample value
+V_No	long		1
+V_Date	datetime		Jan 5, 1994 1:23:45 PM
+Cash_Credit	string	6	string sample value
+L_C	string	1	string sample value
+Party_Code	string	8	string sample value
+NamePrefix	string	4	string sample value
+Party_Name	string	40	string sample value
+Add1	string	40	string sample value
+Add2	string	40	string sample value
+Add3	string	40	string sample value
+CityName	string	25	string sample value
+PIN	string	6	string sample value
+Phone	string	35	string sample value
+Form_Code	string	4	string sample value
+Party_Doc_No	string	15	string sample value
+Party_Doc_Date	datetime		Jan 5, 1994 1:23:45 PM
+GR_RR_No	string	15	string sample value
+GR_RR_Date	datetime		Jan 5, 1994 1:23:45 PM
+RoadPermit_No	string	15	string sample value
+Tot_No_of_Items	short		1
+Tot_Doc_Qty	number		1.00
+Tot_Phy_Qty	number		1.00
+OilAmt	number		1.00
+SprAmt	number		1.00
+Tot_Amt	number		1.00
+Tot_Disc_Amt	number		1.00
+Tot_Ord_DiscAmt	number		1.00
+Tot_Goods_Value	number		1.00
+Tax_Amt	number		1.00
+Addition	number		1.00
+Deduction	number		1.00
+Net_Amt	number		1.00
+Case_No	short		1
+Case_Mark	string	10	string sample value
+Transport	string	30	string sample value
+Supply_Mode	string	15	string sample value
+Invoice_DocID	string	21	string sample value
+Printed_YN	byte		1
+CancelYN	byte		1
+U_Name	string	10	string sample value
+U_EntDt	datetime		Jan 5, 1994 1:23:45 PM
+Srl_No	short		1
+Part_Name	string	40	string sample value
+Part_No	string	22	string sample value
+Qty_Rec	number		1.00
+Qty_Iss	number		1.00
+Qty_Ret	number		1.00
+Rate	number		1.00
+Disc_Per	number		1.00
+Disc_Amt	number		1.00
+Ord_DiscAmt	number		1.00
+INetAmt	number		1.00
+SprPurRetFooter	memo		memo sample data

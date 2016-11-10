@@ -1,0 +1,17 @@
+; Field definition file for table: ADORecordset
+Vehicle_Type	string	50	string sample value
+Model	string	50	string sample value
+MonthOpen	long		1
+MonthOpenVal	long		1
+MonthPur	long		1
+MonthPurVal	long		1
+PurDay	long		1
+MonthSal	long		1
+MonthSalVal	long		1
+SalDay	long		1
+Model_Desc	string	100	string sample value
+Sales_Desc	string	100	string sample value
+MonthCancelled	long		1
+ClStk	long		1
+ClStkVal	long		1
+Produce_Name	string	100	string sample value

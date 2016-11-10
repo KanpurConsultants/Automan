@@ -1,0 +1,85 @@
+; Field definition file for table: ADORecordset
+DocID	string	21	string sample value
+DocIDHelp	string	21	string sample value
+Site_Code	string	2	string sample value
+V_Type	string	5	string sample value
+V_NO	long		1
+V_Date	datetime		Jan 5, 1994 1:23:45 PM
+PARTYCODE	string	8	string sample value
+PBILL_NO	string	10	string sample value
+PBILL_DATE	datetime		Jan 5, 1994 1:23:45 PM
+OBNO	string	10	string sample value
+OBDate	datetime		Jan 5, 1994 1:23:45 PM
+BMS_CATEGORY	string	4	string sample value
+RSO_WORK	byte		1
+RSO_Code	string	10	string sample value
+DueDate	datetime		Jan 5, 1994 1:23:45 PM
+GATE	string	10	string sample value
+GATEDATE	datetime		Jan 5, 1994 1:23:45 PM
+Form_Code	string	4	string sample value
+AMOUNT	number		1.00
+Addition	number		1.00
+Deduction	number		1.00
+Exsice	number		1.00
+Tax_Per	number		1.00
+SatPer	number		1.00
+TaxSur_Per	number		1.00
+Tax_Amt	number		1.00
+SatAmt	number		1.00
+TaxSur_Amt	number		1.00
+Misc_Amt	number		1.00
+Freight	number		1.00
+Insurance	number		1.00
+CenVatPer	number		1.00
+CenVatAmt	number		1.00
+NccdPer	number		1.00
+NccdAmt	number		1.00
+CessPer	number		1.00
+CessAmt	number		1.00
+EcessPer	number		1.00
+EcessAmt	number		1.00
+Tot_Amount	number		1.00
+U_Name	string	10	string sample value
+U_EntDt	datetime		Jan 5, 1994 1:23:45 PM
+U_AE	string	1	string sample value
+AcPostByU_Name	string	10	string sample value
+AcPostByU_EntDt	datetime		Jan 5, 1994 1:23:45 PM
+DrAcCode	string	8	string sample value
+Chassis_RctDocNo	long		1
+Pur_VDate	datetime		Jan 5, 1994 1:23:45 PM
+Mfg_Month	string	9	string sample value
+Mfg_Yr	string	4	string sample value
+RSO_WORK	byte		1
+InDate	datetime		Jan 5, 1994 1:23:45 PM
+MODEL	string	15	string sample value
+Godown	string	3	string sample value
+ChassisNo	string	20	string sample value
+EngineNo	string	20	string sample value
+VehSerialNo	string	20	string sample value
+Srv_BookNo	string	10	string sample value
+RATE	number		1.00
+vrate	number		1.00
+Colour_Code	string	4	string sample value
+TAX_YN	byte		1
+SDM_STM_NO	string	15	string sample value
+PBILL_NO	string	10	string sample value
+PBILL_DATE	datetime		Jan 5, 1994 1:23:45 PM
+PartyCode	string	8	string sample value
+OfftakeIncentiveSrlNo	string	6	string sample value
+OfftakeIncentive	number		1.00
+TgtLinkIncentive	number		1.00
+SubventionSrlNo	string	6	string sample value
+MfgShare	number		1.00
+PartyName	string	60	string sample value
+Add1	string	40	string sample value
+Add2	string	40	string sample value
+Add3	string	40	string sample value
+LstNo	string	30	string sample value
+CstNo	string	30	string sample value
+CityName	string	25	string sample value
+Form_Desc	string	30	string sample value
+Printing_Desc	string	30	string sample value
+Col_Desc	string	20	string sample value
+BMS_name	string	30	string sample value
+Model_Desc	string	100	string sample value
+ModelGrp_Name	string	15	string sample value

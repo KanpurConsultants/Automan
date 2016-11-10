@@ -1,0 +1,35 @@
+Date :- 17/01/2014
+
+
+Modification required in Automan :-
+
+
+Uploading of following data required from Siebel to Automan
+
+1) JobCards
+2) Labour Entry
+3) STORE REQUISITION ISSUE
+4) Spare Parts Purchase Entry (Tata Motors and Local)
+5) Store Sale Bill Entry
+6) Stock Transfer  Entry
+
+Other Modification :- 
+
+1) Job close Cancellation with proper account posting 
+
+2) Posting of incoming and outgoing material/adjustment entry 
+   should take place immediately after entry.(Refresh the data). 
+
+3) Goods Return (Inward) - Transfer return entry posting should be in proper account.
+
+4) Goods Return (Inward) - Cr A/c is not coming/showing for entry.
+
+5) Stock tranfer register - After selection of Site it is showing an error.    
+
+6) All accounts should be display on screen in every entry point with proper group.
+
+
+from :- 
+
+Sunil Sinha
+Enar,Bokaro

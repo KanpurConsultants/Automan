@@ -1,0 +1,20 @@
+; Field definition file for table: ADORecordset
+V_DATE	date		Jan 5, 1994
+V_NO	long		1
+V_TYPE	string	5	string sample value
+V_SNO	long		1
+V_ADD	string	5	string sample value
+CR	number		1.00
+ADJAMT	number		1.00
+SUBCODE	string	10	string sample value
+NAME	string	50	string sample value
+VAL	string	2	string sample value
+NAME1	string	50	string sample value
+ADDRESS1	string	150	string sample value
+CITY_NAME	string	50	string sample value
+DocId	string	21	string sample value
+PDate	date		Jan 5, 1994
+DocNo	string	21	string sample value
+ADJQTY	number		1.00
+Sub	string	4	string sample value
+NextDate	date		Jan 5, 1994

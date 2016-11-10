@@ -1,0 +1,100 @@
+; Field definition file for table: ADORecordset
+OrdDocID	string	21	string sample value
+Ord_No	long		1
+Ord_Date	datetime		Jan 5, 1994 1:23:45 PM
+Model	string	15	string sample value
+PartyCode	string	8	string sample value
+RATE	number		1.00
+Fund_Source	byte		1
+FIN_YN	byte		1
+FB_CODE	string	6	string sample value
+FIN_AMT	number		1.00
+Inv_DocId	string	21	string sample value
+Inv_VType	string	5	string sample value
+Inv_No	long		1
+Inv_Date	datetime		Jan 5, 1994 1:23:45 PM
+DELCH_DOCID	string	21	string sample value
+Form_Code	string	4	string sample value
+TrnType_Prn	byte		1
+VRATE	number		1.00
+MARGINE	number		1.00
+REBATE	number		1.00
+InciChrg	number		1.00
+Octroi	number		1.00
+RegTemp	number		1.00
+TransitInsu	number		1.00
+Transport	number		1.00
+MVT	number		1.00
+TAX_Per	number		1.00
+TAX_Amt	number		1.00
+Surcharge_Per	number		1.00
+Surcharge_Amt	number		1.00
+TOT_Per	number		1.00
+TOT_Amt	number		1.00
+OtherChrg	number		1.00
+FIT_AMT	number		1.00
+FIT_TAX	number		1.00
+Round_off	number		1.00
+DieselAmt	number		1.00
+BillPrn_YN	byte		1
+DETAILS_YN	byte		1
+INS_FEE	number		1.00
+INS_NOTE	string	10	string sample value
+S_CHARGE	number		1.00
+RoundOff_YN	byte		1
+Net_Amount	number		1.00
+Inv_UName	string	10	string sample value
+Inv_UEntDt	datetime		Jan 5, 1994 1:23:45 PM
+gate	string	10	string sample value
+finname	string	40	string sample value
+fincity	string	25	string sample value
+finadd1	string	40	string sample value
+finadd2	string	40	string sample value
+FinBankName	string	35	string sample value
+site_desc	string	20	string sample value
+Pur_DocId	string	21	string sample value
+Sal_DocId	string	21	string sample value
+ChassisNo	string	20	string sample value
+EngineNo	string	20	string sample value
+PBILL_NO	string	10	string sample value
+PBILL_DATE	datetime		Jan 5, 1994 1:23:45 PM
+Model_Desc	string	100	string sample value
+Model_Desc1	string	100	string sample value
+Col_Desc	string	20	string sample value
+NamePrefix	string	4	string sample value
+Name	string	60	string sample value
+SGTypeDesc	string	15	string sample value
+PAdd1	string	40	string sample value
+PAdd2	string	40	string sample value
+PAdd3	string	40	string sample value
+PCityName	string	25	string sample value
+FName	string	40	string sample value
+WHEELBASE	short		1
+RIMS	byte		1
+TYRES	byte		1
+TyreDetails	string	30	string sample value
+GearBoxNo	string	15	string sample value
+Printing_Desc	string	30	string sample value
+PANNo	string	20	string sample value
+InvDate	string	1	string sample value
+TOT_Per	number		1.00
+TOT_Amt	number		1.00
+FPrefix	string	4	string sample value
+Sal_Rate	number		1.00
+IncTaxYN	string	1	string sample value
+Phone	string	35	string sample value
+Mobile	string	24	string sample value
+MISC_INFO	string	200	string sample value
+Srv_BookNo	string	10	string sample value
+HisCardNo	string	30	string sample value
+KeyNo	string	25	string sample value
+BatteryNo	string	25	string sample value
+BatteryMake	string	20	string sample value
+Scheme	string	20	string sample value
+Teflon	number		1.00
+PassportChg	number		1.00
+ChasCount	long		1
+GatePassNo	number		1.00
+LSTNo	string	30	string sample value
+UnderCharge	string	50	string sample value
+StateName	string	20	string sample value

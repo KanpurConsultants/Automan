@@ -1,0 +1,12 @@
+; Field definition file for table: ADORecordset
+DocId	string	21	string sample value
+Srl_No	short		1
+Site_Code	string	2	string sample value
+V_TYPE	string	5	string sample value
+V_NO	long		1
+PROD_CODE	string	22	string sample value
+trn_type	string	1	string sample value
+QTY	number		1.00
+RATE	number		1.00
+Amount	number		1.00
+Prod_name	string	40	string sample value

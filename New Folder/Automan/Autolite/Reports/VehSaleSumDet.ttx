@@ -1,0 +1,50 @@
+; Field definition file for table: ADORecordset
+DelCh_DocId	string	21	string sample value
+DelCh_Dt	datetime		Jan 5, 1994 1:23:45 PM
+OrdDocId	string	21	string sample value
+Ord_Date	datetime		Jan 5, 1994 1:23:45 PM
+NamePrefix	string	4	string sample value
+Name	string	40	string sample value
+FPrefix	string	4	string sample value
+FName	string	40	string sample value
+Add1	string	40	string sample value
+Add2	string	40	string sample value
+Add3	string	40	string sample value
+CityName	string	25	string sample value
+Phone	string	35	string sample value
+Mobile	string	24	string sample value
+Model	string	15	string sample value
+ChassisNo	string	20	string sample value
+EngineNo	string	20	string sample value
+VRATE	number		1.00
+PBILL_NO	string	15	string sample value
+PBILL_DATE	datetime		Jan 5, 1994 1:23:45 PM
+MARGINE	number		1.00
+InciChrg	number		1.00
+Octroi	number		1.00
+Transport	number		1.00
+RegTemp	number		1.00
+TAX_Amt	number		1.00
+Surcharge_Amt	number		1.00
+OtherChrg	number		1.00
+Net_AMOUNT	number		1.00
+REBATE	number		1.00
+Form_Code	string	4	string sample value
+Form_Desc	string	30	string sample value
+FinGrpName	string	35	string sample value
+FinName	string	50	string sample value
+Fin_Amt	number		1.00
+MISC_INFO	string	15	string sample value
+TOT_Amt	number		1.00
+Emp_Name	string	40	string sample value
+TransitInsu	number		1.00
+Fit_Amt	number		1.00
+Fit_Tax	number		1.00
+Round_Off	number		1.00
+Inv_No	long		1
+Inv_Date	datetime		Jan 5, 1994 1:23:45 PM
+Inv_DocId	string	21	string sample value
+TaxableAmt	number		1.00
+SaleAmt	number		1.00
+ChasCount	long		1
+Inv_DocId	string	21	string sample value

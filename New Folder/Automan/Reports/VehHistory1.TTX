@@ -1,0 +1,38 @@
+; Field definition file for table: ADORecordset
+RegNo	string	14	string sample value
+CustName	string	40	string sample value
+Add1	string	40	string sample value
+Add2	string	40	string sample value
+Add3	string	40	string sample value
+DOSale	date		Jan 5, 1994
+Chassis	string	20	string sample value
+Engine	string	25	string sample value
+GBNo	string	20	string sample value
+RANo	string	20	string sample value
+CardNo	string	8	string sample value
+JobDocID	string	21	string sample value
+JobNo	string	13	string sample value
+Job_Date	date		Jan 5, 1994
+JobCloseDate	date		Jan 5, 1994
+AtKMsHrs	number		1.00
+Serv_Type	string	2	string sample value
+RecBy_MechCode	string	4	string sample value
+RecBy_MechName	string	40	string sample value
+NetLab_Amt	number		1.00
+NetSpr_Amt	number		1.00
+Lab_Code	string	6	string sample value
+Lab_Done	string	40	string sample value
+Prob_Code	string	6	string sample value
+Prob_Reported	string	40	string sample value
+DocIdReq	string	21	string sample value
+Part_No	string	22	string sample value
+Part_Name	string	40	string sample value
+Purpose	string	1	string sample value
+Rate	number		1.00
+Qty	number		1.00
+Amount	number		1.00
+ObservBy_Super	string	255	string sample value
+ActionBy_Super	string	255	string sample value
+PhoneOff	string	25	string sample value
+PhoneResi	string	25	string sample value
+Mobile	string	12	string sample value

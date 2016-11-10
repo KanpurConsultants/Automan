@@ -1,0 +1,43 @@
+; Field definition file for table: ADORecordset
+inv_No	long		1
+inv_Date	datetime		Jan 5, 1994 1:23:45 PM
+Inv_DocId	string	21	string sample value
+FPrefix	string	4	string sample value
+FName	string	40	string sample value
+DelChPrn_YN	byte		1
+FIN_AMT	number		1.00
+Tot_Amount	number		1.00
+fincity	string	25	string sample value
+finadd1	string	40	string sample value
+finadd2	string	40	string sample value
+FinBankName	string	50	string sample value
+FinName	string	50	string sample value
+CityName	string	25	string sample value
+DelCh_UName	string	10	string sample value
+DelCh_UEntDt	datetime		Jan 5, 1994 1:23:45 PM
+DelCh_No	long		1
+DelCh_DT	datetime		Jan 5, 1994 1:23:45 PM
+Fund_Source	byte		1
+TYRES	byte		1
+MODEL	string	15	string sample value
+DelCh_SiteCode	string	2	string sample value
+RIMS	byte		1
+ChassisNo	string	20	string sample value
+EngineNo	string	20	string sample value
+Ord_No	long		1
+Ord_Date	datetime		Jan 5, 1994 1:23:45 PM
+Model_Desc	string	50	string sample value
+Model_Desc1	string	50	string sample value
+Col_Desc	string	20	string sample value
+Name	string	40	string sample value
+Add1	string	40	string sample value
+Add2	string	40	string sample value
+Add3	string	40	string sample value
+PIN	string	6	string sample value
+PinCode	string	6	string sample value
+DelCh_DocId	string	21	string sample value
+OrdDocId	string	21	string sample value
+KeyNo	string	25	string sample value
+BatteryNo	string	25	string sample value
+BatteryMake	string	20	string sample value
+Srv_BookNo	string	10	string sample value

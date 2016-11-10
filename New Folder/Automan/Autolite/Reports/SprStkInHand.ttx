@@ -1,0 +1,10 @@
+; Field definition file for table: ADORecordset
+Part_No	string	22	string sample value
+Part_Name	string	40	string sample value
+TPQtyRec	number		1.00
+TBQtyRec	number		1.00
+TPQtyIss	number		1.00
+TBQtyIss	number		1.00
+TP_SRate	number		1.00
+TB_SRate	number		1.00
+Bin_Loca	string	15	string sample value

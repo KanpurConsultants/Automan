@@ -1,0 +1,111 @@
+; Field definition file for table: ADORecordset
+jobcardfooter	memo		memo sample data
+MechName	string	40	string sample value
+CityName	string	25	string sample value
+Model	string	30	string sample value
+RegNo	string	14	string sample value
+RegDate	datetime		Jan 5, 1994 1:23:45 PM
+Chas_Type	string	6	string sample value
+Chassis	string	20	string sample value
+Engine	string	25	string sample value
+VehSerialNo	string	20	string sample value
+Supplier_BillNo	string	25	string sample value
+Supplier_BillDate	datetime		Jan 5, 1994 1:23:45 PM
+Delivery_Date	datetime		Jan 5, 1994 1:23:45 PM
+Dealer_Code	string	10	string sample value
+CouponNo	string	12	string sample value
+GBoxNo	string	20	string sample value
+RAxelNo	string	20	string sample value
+FAxelNo	string	20	string sample value
+TransAxelNo	string	20	string sample value
+SteerGBNo	string	20	string sample value
+CabinNo	string	20	string sample value
+BodyNo	string	20	string sample value
+ColourCode	string	4	string sample value
+DoorLockNo	string	15	string sample value
+SteerLockNo	string	15	string sample value
+FillerCapLockNo	string	10	string sample value
+HeadLampMake	string	15	string sample value
+FIP_No	string	10	string sample value
+Frame_No	string	15	string sample value
+Steer_Type	string	10	string sample value
+Steer_Make	string	15	string sample value
+Alternator	string	15	string sample value
+StarterMotor	string	15	string sample value
+Battery	string	15	string sample value
+Brake_Type	string	6	string sample value
+Radiator_Make	string	15	string sample value
+Tyre_FL	string	20	string sample value
+Tyre_FR	string	20	string sample value
+Tyre_ML1	string	20	string sample value
+Tyre_ML2	string	20	string sample value
+Tyre_MR1	string	20	string sample value
+Tyre_MR2	string	20	string sample value
+Tyre_RL1	string	20	string sample value
+Tyre_RL2	string	20	string sample value
+Tyre_RR1	string	20	string sample value
+Tyre_RR2	string	20	string sample value
+Spare_Wheel	string	20	string sample value
+Addl_Equp	string	50	string sample value
+FuelType	string	10	string sample value
+Fuel_Unit	string	6	string sample value
+Name	string	40	string sample value
+ConPerson	string	40	string sample value
+Add1	string	40	string sample value
+Add2	string	40	string sample value
+Add3	string	40	string sample value
+AREA	string	3	string sample value
+CityCode	string	4	string sample value
+Pin	string	6	string sample value
+PhoneOff	string	25	string sample value
+PhoneResi	string	25	string sample value
+Govt_YN	byte		1
+DocId	string	21	string sample value
+Job_No	long		1
+Job_Date	datetime		Jan 5, 1994 1:23:45 PM
+Job_BookDivCode	string	1	string sample value
+Job_BookNo	long		1
+Job_BookSiteCode	string	2	string sample value
+Job_InspDocID	string	21	string sample value
+HisCardNo	string	8	string sample value
+GovtYn	byte		1
+Serv_Type	string	2	string sample value
+Serv_Rate	number		1.00
+Coupon	string	12	string sample value
+Coupon_Value	number		1.00
+AtKMsHrs	long		1
+FUEL	string	10	string sample value
+Est_SpCost	number		1.00
+Est_LabCost	number		1.00
+ArrivalTime	datetime		Jan 5, 1994 1:23:45 PM
+Recp_Time	datetime		Jan 5, 1994 1:23:45 PM
+ExpDelDate	datetime		Jan 5, 1994 1:23:45 PM
+Body_Damage	string	50	string sample value
+OpenRemarks	string	50	string sample value
+RecBy_Mechanic	string	4	string sample value
+RecBy_Supervisor	string	4	string sample value
+CreatedU_Name	string	10	string sample value
+CreatedU_EntDt	datetime		Jan 5, 1994 1:23:45 PM
+CreatedU_AE	string	1	string sample value
+Remark	string	30	string sample value
+U_Name	string	10	string sample value
+U_EntDt	datetime		Jan 5, 1994 1:23:45 PM
+Model_Desc	string	80	string sample value
+RLW	string	15	string sample value
+Manufacturer	string	50	string sample value
+Serv_Desc	string	20	string sample value
+S_No	short		1
+Details	string	40	string sample value
+Cust_Comp_Code	string	6	string sample value
+Repeat_YN	number		1.00
+HrMeter	string	12	string sample value
+Mobile	string	12	string sample value
+Col_Desc	string	20	string sample value
+DealerName	string	50	string sample value
+Lab_Code	string	8	string sample value
+Lab_Desc	string	40	string sample value
+Lab_Time	number		1.00
+Est_Lab_Amount	number		1.00
+Supervisor_Name	string	40	string sample value
+Varient	string	10	string sample value
+ULW	string	15	string sample value

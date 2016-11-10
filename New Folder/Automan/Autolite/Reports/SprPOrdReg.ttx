@@ -1,0 +1,18 @@
+; Field definition file for table: ADORecordset
+CityName	string	25	string sample value
+OrderId	string	21	string sample value
+site_Desc	string	20	string sample value
+Party_Code	string	8	string sample value
+Order_No	long		1
+Amount	number		1.00
+Site_Code	string	2	string sample value
+V_Date	datetime		Jan 5, 1994 1:23:45 PM
+Order_Prefix	string	5	string sample value
+Part_Name	string	40	string sample value
+Name	string	40	string sample value
+PART_NO	string	22	string sample value
+Order_Reg_No	string	12	string sample value
+Order_Reg_Dt	datetime		Jan 5, 1994 1:23:45 PM
+QTY	number		1.00
+Sup_Qty	number		1.00
+BalQty	number		1.00

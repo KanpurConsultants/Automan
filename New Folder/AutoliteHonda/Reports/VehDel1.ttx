@@ -1,0 +1,10 @@
+; Field definition file for table: ADORecordset
+DelCh_DocId	string	21	string sample value
+Trn_Type	string	1	string sample value
+Prod_Name	string	40	string sample value
+QTY	number		1.00
+RATE	number		1.00
+TAX_PER	number		1.00
+TAX_AMT	number		1.00
+TAXSUR_PER	number		1.00
+TAXSUR_AMT	number		1.00

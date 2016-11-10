@@ -1,0 +1,21 @@
+; Field definition file for table: ADORecordset
+Model	string	15	string sample value
+RegNo	string	14	string sample value
+Chassis	string	20	string sample value
+Engine	string	20	string sample value
+Name	string	40	string sample value
+Add1	string	40	string sample value
+Add2	string	40	string sample value
+Add3	string	40	string sample value
+PhoneOff	string	25	string sample value
+PhoneResi	string	25	string sample value
+Mobile	string	12	string sample value
+LJob_Date	datetime		Jan 5, 1994 1:23:45 PM
+AtKmsHrs	long		1
+Serv_Desc	string	20	string sample value
+City	string	25	string sample value
+JobCloseDate	datetime		Jan 5, 1994 1:23:45 PM
+DocId	string	21	string sample value
+NextSrvDate	datetime		Jan 5, 1994 1:23:45 PM
+Days	datetime		Jan 5, 1994 1:23:45 PM
+Category	string	19	string sample value

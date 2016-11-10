@@ -1,0 +1,893 @@
+   0
+            Weight          =   400
+            Underline       =   0   'False
+            Italic          =   0   'False
+            Strikethrough   =   0   'False
+         EndProperty
+         ForeColor       =   &H00000000&
+         Height          =   225
+         Index           =   3
+         Left            =   4920
+         TabIndex        =   124
+         Top             =   255
+         Width           =   930
+      End
+      Begin VB.Label LblFrm 
+         Appearance      =   0  'Flat
+         AutoSize        =   -1  'True
+         BackColor       =   &H80000005&
+         BackStyle       =   0  'Transparent
+         Caption         =   "<Part No>"
+         BeginProperty Font 
+            Name            =   "Arial"
+            Size            =   9
+            Charset         =   0
+            Weight          =   400
+            Underline       =   0   'False
+            Italic          =   0   'False
+            Strikethrough   =   0   'False
+         EndProperty
+         ForeColor       =   &H000000C0&
+         Height          =   225
+         Index           =   0
+         Left            =   1140
+         TabIndex        =   123
+         Top             =   255
+         Width           =   825
+      End
+      Begin VB.Label Label3 
+         AutoSize        =   -1  'True
+         BackStyle       =   0  'Transparent
+         Caption         =   "Part No."
+         BeginProperty Font 
+            Name            =   "Arial"
+            Size            =   9
+            Charset         =   0
+            Weight          =   400
+            Underline       =   0   'False
+            Italic          =   0   'False
+            Strikethrough   =   0   'False
+         EndProperty
+         ForeColor       =   &H000000C0&
+         Height          =   225
+         Index           =   20
+         Left            =   75
+         TabIndex        =   122
+         Top             =   270
+         Width           =   660
+      End
+      Begin VB.Label Label3 
+         AutoSize        =   -1  'True
+         BackStyle       =   0  'Transparent
+         Caption         =   "Quantity"
+         BeginProperty Font 
+            Name            =   "Arial"
+            Size            =   9
+            Charset         =   0
+            Weight          =   400
+            Underline       =   0   'False
+            Italic          =   0   'False
+            Strikethrough   =   0   'False
+         EndProperty
+         ForeColor       =   &H00000080&
+         Height          =   225
+         Index           =   21
+         Left            =   1800
+         TabIndex        =   121
+         Top             =   930
+         Width           =   660
+      End
+      Begin VB.Label LblFrm 
+         Alignment       =   1  'Right Justify
+         AutoSize        =   -1  'True
+         BackStyle       =   0  'Transparent
+         Caption         =   "000000.00"
+         BeginProperty Font 
+            Name            =   "Arial"
+            Size            =   9
+            Charset         =   0
+            Weight          =   400
+            Underline       =   0   'False
+            Italic          =   0   'False
+            Strikethrough   =   0   'False
+         EndProperty
+         ForeColor       =   &H00C00000&
+         Height          =   225
+         Index           =   9
+         Left            =   2745
+         TabIndex        =   120
+         Top             =   1185
+         Width           =   885
+      End
+      Begin VB.Label Label3 
+         AutoSize        =   -1  'True
+         BackStyle       =   0  'Transparent
+         Caption         =   "Last"
+         BeginProperty Font 
+            Name            =   "Arial"
+            Size            =   9
+            Charset         =   0
+            Weight          =   400
+            Underline       =   0   'False
+            Italic          =   0   'False
+            Strikethrough   =   0   'False
+         EndProperty
+         ForeColor       =   &H00C000C0&
+         Height          =   225
+         Index           =   23
+         Left            =   4920
+         TabIndex        =   119
+         Top             =   1185
+         Width           =   360
+      End
+      Begin VB.Label LblFrm 
+         Alignment       =   1  'Right Justify
+         AutoSize        =   -1  'True
+         BackStyle       =   0  'Transparent
+         Caption         =   "0.00"
+         BeginProperty Font 
+            Name            =   "Arial"
+            Size            =   9
+            Charset         =   0
+            Weight          =   400
+            Underline       =   0   'False
+            Italic          =   0   'False
+            Strikethrough   =   0   'False
+         EndProperty
+         ForeColor       =   &H00C00000&
+         Height          =   255
+         Index           =   11
+         Left            =   3285
+         TabIndex        =   118
+         Top             =   1875
+         Width           =   360
+      End
+      Begin VB.Label LblFrm 
+         AutoSize        =   -1  'True
+         BackStyle       =   0  'Transparent
+         Caption         =   "999999.00"
+         BeginProperty Font 
+            Name            =   "Arial"
+            Size            =   8.25
+            Charset         =   0
+            Weight          =   400
+            Underline       =   0   'False
+            Italic          =   0   'False
+            Strikethrough   =   0   'False
+         EndProperty
+         ForeColor       =   &H00C000C0&
+         Height          =   210
+         Index           =   14
+         Left            =   5460
+         TabIndex        =   117
+         Top             =   1185
+         Width           =   765
+      End
+      Begin VB.Label LblFrm 
+         Alignment       =   1  'Right Justify
+         AutoSize        =   -1  'True
+         BackStyle       =   0  'Transparent
+         Caption         =   "0.00"
+         BeginProperty Font 
+            Name            =   "Arial"
+            Size            =   9
+            Charset         =   0
+            Weight          =   400
+            Underline       =   0   'False
+            Italic          =   0   'False
+            Strikethrough   =   0   'False
+         EndProperty
+         ForeColor       =   &H000000C0&
+         Height          =   255
+         Index           =   6
+         Left            =   2115
+         TabIndex        =   116
+         Top             =   1635
+         Width           =   360
+      End
+      Begin VB.Label LblFrm 
+         Alignment       =   1  'Right Justify
+         AutoSize        =   -1  'True
+         BackStyle       =   0  'Transparent
+         Caption         =   "0.00"
+         BeginProperty Font 
+            Name            =   "Arial"
+            Size            =   9
+            Charset         =   0
+            Weight          =   400
+            Underline       =   0   'False
+            Italic          =   0   'False
+            Strikethrough   =   0   'False
+         EndProperty
+         ForeColor       =   &H00C00000&
+         Height          =   255
+         Index           =   7
+         Left            =   2115
+         TabIndex        =   115
+         Top             =   1875
+         Width           =   360
+      End
+      Begin VB.Label LblFrm 
+         Alignment       =   1  'Right Justify
+         AutoSize        =   -1  'True
+         BackStyle       =   0  'Transparent
+         Caption         =   "0.00"
+         BeginProperty Font 
+            Name            =   "Arial"
+            Size            =   9
+            Charset         =   0
+            Weight          =   400
+            Underline       =   0   'False
+            Italic          =   0   'False
+            Strikethrough   =   0   'False
+         EndProperty
+         ForeColor       =   &H000000C0&
+         Height          =   255
+         Index           =   10
+         Left            =   3285
+         TabIndex        =   114
+         Top             =   1635
+         Width           =   360
+      End
+      Begin VB.Label LblFrm 
+         AutoSize        =   -1  'True
+         BackStyle       =   0  'Transparent
+         Caption         =   "999999.00"
+         BeginProperty Font 
+            Name            =   "Arial"
+            Size            =   8.25
+            Charset         =   0
+            Weight          =   400
+            Underline       =   0   'False
+            Italic          =   0   'False
+            Strikethrough   =   0   'False
+         EndProperty
+         ForeColor       =   &H000000C0&
+         Height          =   210
+         Index           =   13
+         Left            =   5460
+         TabIndex        =   113
+         Top             =   1657
+         Width           =   765
+      End
+      Begin VB.Label LblFrm 
+         Alignment       =   1  'Right Justify
+         AutoSize        =   -1  'True
+         BackStyle       =   0  'Transparent
+         Caption         =   "0000000.000"
+         BeginProperty Font 
+            Name            =   "Arial"
+            Size            =   9
+            Charset         =   0
+            Weight          =   400
+            Underline       =   0   'False
+            Italic          =   0   'False
+            Strikethrough   =   0   'False
+         EndProperty
+         ForeColor       =   &H00C00000&
+         Height          =   225
+         Index           =   8
+         Left            =   5130
+         TabIndex        =   112
+         Top             =   930
+         Width           =   1095
+      End
+      Begin VB.Label LblFrm 
+         Alignment       =   1  'Right Justify
+         AutoSize        =   -1  'True
+         BackStyle       =   0  'Transparent
+         Caption         =   "0.00"
+         BeginProperty Font 
+            Name            =   "Arial"
+            Size            =   9
+            Charset         =   0
+            Weight          =   400
+            Underline       =   0   'False
+            Italic          =   0   'False
+            Strikethrough   =   0   'False
+         EndProperty
+         ForeColor       =   &H00C00000&
+         Height          =   255
+         Index           =   4
+         Left            =   2100
+         TabIndex        =   111
+         Top             =   1170
+         Width           =   360
+      End
+      Begin VB.Label LblFrm 
+         AutoSize        =   -1  'True
+         BackStyle       =   0  'Transparent
+         Caption         =   "<Part Local Name>"
+         BeginProperty Font 
+            Name            =   "Arial"
+            Size            =   9
+            Charset         =   0
+            Weight          =   400
+            Underline       =   0   'False
+            Italic          =   0   'False
+            Strikethrough   =   0   'False
+         EndProperty
+         ForeColor       =   &H00000000&
+         Height          =   225
+         Index           =   2
+         Left            =   1140
+         TabIndex        =   110
+         Top             =   675
+         Width           =   1590
+      End
+      Begin VB.Label LblFrm 
+         AutoSize        =   -1  'True
+         BackStyle       =   0  'Transparent
+         Caption         =   "999999.00"
+         BeginProperty Font 
+            Name            =   "Arial"
+            Size            =   8.25
+            Charset         =   0
+            Weight          =   400
+            Underline       =   0   'False
+            Italic          =   0   'False
+            Strikethrough   =   0   'False
+         EndProperty
+         ForeColor       =   &H00000000&
+         Height          =   210
+         Index           =   12
+         Left            =   5460
+         TabIndex        =   109
+         Top             =   1410
+         Width           =   765
+      End
+      Begin VB.Label Label3 
+         AutoSize        =   -1  'True
+         BackStyle       =   0  'Transparent
+         Caption         =   "High"
+         BeginProperty Font 
+            Name            =   "Arial"
+            Size            =   9
+            Charset         =   0
+            Weight          =   400
+            Underline       =   0   'False
+            Italic          =   0   'False
+            Strikethrough   =   0   'False
+         EndProperty
+         ForeColor       =   &H00000000&
+         Height          =   225
+         Index           =   19
+         Left            =   4920
+         TabIndex        =   108
+         Top             =   1410
+         Width           =   390
+      End
+      Begin VB.Label Label3 
+         AutoSize        =   -1  'True
+         BackColor       =   &H00BBDBB3&
+         BackStyle       =   0  'Transparent
+         Caption         =   "Pur. Rate"
+         BeginProperty Font 
+            Name            =   "Arial"
+            Size            =   9
+            Charset         =   0
+            Weight          =   400
+            Underline       =   0   'False
+            Italic          =   0   'False
+            Strikethrough   =   0   'False
+         EndProperty
+         ForeColor       =   &H00C000C0&
+         Height          =   225
+         Index           =   18
+         Left            =   3930
+         TabIndex        =   107
+         Top             =   1185
+         Width           =   765
+      End
+      Begin VB.Label Label3 
+         AutoSize        =   -1  'True
+         BackStyle       =   0  'Transparent
+         Caption         =   "Local Name"
+         BeginProperty Font 
+            Name            =   "Arial"
+            Size            =   9
+            Charset         =   0
+            Weight          =   400
+            Underline       =   0   'False
+            Italic          =   0   'False
+            Strikethrough   =   0   'False
+         EndProperty
+         ForeColor       =   &H00000000&
+         Height          =   225
+         Index           =   17
+         Left            =   75
+         TabIndex        =   106
+         Top             =   675
+         Width           =   1005
+      End
+      Begin VB.Label Label3 
+         AutoSize        =   -1  'True
+         BackStyle       =   0  'Transparent
+         Caption         =   "Low"
+         BeginProperty Font 
+            Name            =   "Arial"
+            Size            =   9
+            Charset         =   0
+            Weight          =   400
+            Underline       =   0   'False
+            Italic          =   0   'False
+            Strikethrough   =   0   'False
+         EndProperty
+         ForeColor       =   &H000000C0&
+         Height          =   225
+         Index           =   16
+         Left            =   4920
+         TabIndex        =   105
+         Top             =   1650
+         Width           =   345
+      End
+      Begin VB.Label Label3 
+         AutoSize        =   -1  'True
+         BackStyle       =   0  'Transparent
+         Caption         =   "Sale Rate"
+         BeginProperty Font 
+            Name            =   "Arial"
+            Size            =   9
+            Charset         =   0
+            Weight          =   400
+            Underline       =   0   'False
+            Italic          =   0   'False
+            Strikethrough   =   0   'False
+         EndProperty
+         ForeColor       =   &H00000080&
+         Height          =   225
+         Index           =   15
+         Left            =   2805
+         TabIndex        =   104
+         Top             =   930
+         Width           =   810
+      End
+      Begin VB.Label Label3 
+         AutoSize        =   -1  'True
+         BackStyle       =   0  'Transparent
+         Caption         =   "Tax Paid"
+         BeginProperty Font 
+            Name            =   "Arial"
+            Size            =   9
+            Charset         =   0
+            Weight          =   400
+            Underline       =   0   'False
+            Italic          =   0   'False
+            Strikethrough   =   0   'False
+         EndProperty
+         ForeColor       =   &H00C00000&
+         Height          =   255
+         Index           =   14
+         Left            =   75
+         TabIndex        =   103
+         Top             =   1875
+         Width           =   705
+      End
+      Begin VB.Label Label3 
+         AutoSize        =   -1  'True
+         BackStyle       =   0  'Transparent
+         Caption         =   "MRP Taxable"
+         BeginProperty Font 
+            Name            =   "Arial"
+            Size            =   9
+            Charset         =   0
+            Weight          =   400
+            Underline       =   0   'False
+            Italic          =   0   'False
+            Strikethrough   =   0   'False
+         EndProperty
+         ForeColor       =   &H00C00000&
+         Height          =   225
+         Index           =   13
+         Left            =   75
+         TabIndex        =   102
+         Top             =   1185
+         Width           =   1080
+      End
+      Begin VB.Label Label3 
+         AutoSize        =   -1  'True
+         BackStyle       =   0  'Transparent
+         Caption         =   "Current Stock"
+         BeginProperty Font 
+            Name            =   "Arial"
+            Size            =   9
+            Charset         =   0
+            Weight          =   400
+            Underline       =   0   'False
+            Italic          =   0   'False
+            Strikethrough   =   0   'False
+         EndProperty
+         ForeColor       =   &H00C00000&
+         Height          =   255
+         Index           =   12
+         Left            =   3930
+         TabIndex        =   101
+         Top             =   915
+         Width           =   1110
+      End
+      Begin VB.Label Label3 
+         Alignment       =   2  'Center
+         Appearance      =   0  'Flat
+         AutoSize        =   -1  'True
+         BackColor       =   &H00004000&
+         BorderStyle     =   1  'Fixed Single
+         Caption         =   "Item Detail"
+         BeginProperty Font 
+            Name            =   "Arial"
+            Size            =   9.75
+            Charset         =   0
+            Weight          =   700
+            Underline       =   0   'False
+            Italic          =   0   'False
+            Strikethrough   =   0   'False
+         EndProperty
+         ForeColor       =   &H0080FFFF&
+         Height          =   240
+         Index           =   11
+         Left            =   0
+         TabIndex        =   100
+         Top             =   0
+         Width           =   6285
+      End
+      Begin VB.Label Label3 
+         AutoSize        =   -1  'True
+         BackStyle       =   0  'Transparent
+         Caption         =   "Taxable"
+         BeginProperty Font 
+            Name            =   "Arial"
+            Size            =   9
+            Charset         =   0
+            Weight          =   400
+            Underline       =   0   'False
+            Italic          =   0   'False
+            Strikethrough   =   0   'False
+         EndProperty
+         ForeColor       =   &H000000C0&
+         Height          =   255
+         Index           =   10
+         Left            =   75
+         TabIndex        =   99
+         Top             =   1635
+         Width           =   645
+      End
+      Begin VB.Label Label3 
+         AutoSize        =   -1  'True
+         BackStyle       =   0  'Transparent
+         Caption         =   "Part Name"
+         BeginProperty Font 
+            Name            =   "Arial"
+            Size            =   9
+            Charset         =   0
+            Weight          =   400
+            Underline       =   0   'False
+            Italic          =   0   'False
+            Strikethrough   =   0   'False
+         EndProperty
+         ForeColor       =   &H00C00000&
+         Height          =   225
+         Index           =   9
+         Left            =   75
+         TabIndex        =   98
+         Top             =   465
+         Width           =   885
+      End
+      Begin VB.Label LblFrm 
+         AutoSize        =   -1  'True
+         BackStyle       =   0  'Transparent
+         Caption         =   "<Part Name>"
+         BeginProperty Font 
+            Name            =   "Arial"
+            Size            =   9
+            Charset         =   0
+            Weight          =   400
+            Underline       =   0   'False
+            Italic          =   0   'False
+            Strikethrough   =   0   'False
+         EndProperty
+         ForeColor       =   &H00C00000&
+         Height          =   225
+         Index           =   1
+         Left            =   1140
+         TabIndex        =   97
+         Top             =   465
+         Width           =   1095
+      End
+      Begin VB.Label Label3 
+         AutoSize        =   -1  'True
+         BackStyle       =   0  'Transparent
+         Caption         =   "MRP Taxpaid"
+         BeginProperty Font 
+            Name            =   "Arial"
+            Size            =   9
+            Charset         =   0
+            Weight          =   400
+            Underline       =   0   'False
+            Italic          =   0   'False
+            Strikethrough   =   0   'False
+         EndProperty
+         ForeColor       =   &H00000000&
+         Height          =   225
+         Index           =   8
+         Left            =   75
+         TabIndex        =   96
+         Top             =   1410
+         Width           =   1080
+      End
+      Begin VB.Label LblFrm 
+         Alignment       =   1  'Right Justify
+         AutoSize        =   -1  'True
+         BackStyle       =   0  'Transparent
+         Caption         =   "0.00"
+         BeginProperty Font 
+            Name            =   "Arial"
+            Size            =   9
+            Charset         =   0
+            Weight          =   400
+            Underline       =   0   'False
+            Italic          =   0   'False
+            Strikethrough   =   0   'False
+         EndProperty
+         ForeColor       =   &H00000000&
+         Height          =   255
+         Index           =   5
+         Left            =   2115
+         TabIndex        =   95
+         Top             =   1395
+         Width           =   360
+      End
+      Begin VB.Line Line4 
+         X1              =   3660
+         X2              =   3885
+         Y1              =   1035
+         Y2              =   1035
+      End
+   End
+   Begin MSDataGridLib.DataGrid DGPart 
+      Height          =   2670
+      Left            =   5940
+      Negotiate       =   -1  'True
+      TabIndex        =   93
+      TabStop         =   0   'False
+      Top             =   7335
+      Visible         =   0   'False
+      Width           =   12075
+      _ExtentX        =   21299
+      _ExtentY        =   4710
+      _Version        =   393216
+      AllowUpdate     =   0   'False
+      AllowArrows     =   -1  'True
+      Appearance      =   0
+      BackColor       =   12640511
+      BorderStyle     =   0
+      Enabled         =   -1  'True
+      ColumnHeaders   =   -1  'True
+      ForeColor       =   8388608
+      HeadLines       =   1
+      RowHeight       =   18
+      WrapCellPointer =   -1  'True
+      RowDividerStyle =   0
+      FormatLocked    =   -1  'True
+      BeginProperty HeadFont {0BE35203-8F91-11CE-9DE3-00AA004BB851} 
+         Name            =   "MS Sans Serif"
+         Size            =   8.25
+         Charset         =   0
+         Weight          =   700
+         Underline       =   0   'False
+         Italic          =   0   'False
+         Strikethrough   =   0   'False
+      EndProperty
+      BeginProperty Font {0BE35203-8F91-11CE-9DE3-00AA004BB851} 
+         Name            =   "Courier New"
+         Size            =   9
+         Charset         =   0
+         Weight          =   400
+         Underline       =   0   'False
+         Italic          =   0   'False
+         Strikethrough   =   0   'False
+      EndProperty
+      ColumnCount     =   7
+      BeginProperty Column00 
+         DataField       =   "Code"
+         Caption         =   "Part No."
+         BeginProperty DataFormat {6D835690-900B-11D0-9484-00A0C91110ED} 
+            Type            =   0
+            Format          =   ""
+            HaveTrueFalseNull=   0
+            FirstDayOfWeek  =   0
+            FirstWeekOfYear =   0
+            LCID            =   1033
+            SubFormatType   =   0
+         EndProperty
+      EndProperty
+      BeginProperty Column01 
+         DataField       =   "Name"
+         Caption         =   "Part Name"
+         BeginProperty DataFormat {6D835690-900B-11D0-9484-00A0C91110ED} 
+            Type            =   0
+            Format          =   ""
+            HaveTrueFalseNull=   0
+            FirstDayOfWeek  =   0
+            FirstWeekOfYear =   0
+            LCID            =   1033
+            SubFormatType   =   0
+         EndProperty
+      EndProperty
+      BeginProperty Column02 
+         DataField       =   "Unit"
+         Caption         =   "Unit"
+         BeginProperty DataFormat {6D835690-900B-11D0-9484-00A0C91110ED} 
+            Type            =   0
+            Format          =   ""
+            HaveTrueFalseNull=   0
+            FirstDayOfWeek  =   0
+            FirstWeekOfYear =   0
+            LCID            =   1033
+            SubFormatType   =   0
+         EndProperty
+      EndProperty
+      BeginProperty Column03 
+         DataField       =   "MRP"
+         Caption         =   "      MRP"
+         BeginProperty DataFormat {6D835690-900B-11D0-9484-00A0C91110ED} 
+            Type            =   1
+            Format          =   "0.00"
+            HaveTrueFalseNull=   0
+            FirstDayOfWeek  =   0
+            FirstWeekOfYear =   0
+            LCID            =   1033
+            SubFormatType   =   1
+         EndProperty
+      EndProperty
+      BeginProperty Column04 
+         DataField       =   "TB_SRate"
+         Caption         =   "   TB Rate"
+         BeginProperty DataFormat {6D835690-900B-11D0-9484-00A0C91110ED} 
+            Type            =   1
+            Format          =   "0.00"
+            HaveTrueFalseNull=   0
+            FirstDayOfWeek  =   0
+            FirstWeekOfYear =   0
+            LCID            =   1033
+            SubFormatType   =   1
+         EndProperty
+      EndProperty
+      BeginProperty Column05 
+         DataField       =   "TP_SRate"
+         Caption         =   "   TP Rate"
+         BeginProperty DataFormat {6D835690-900B-11D0-9484-00A0C91110ED} 
+            Type            =   1
+            Format          =   "0.00"
+            HaveTrueFalseNull=   0
+            FirstDayOfWeek  =   0
+            FirstWeekOfYear =   0
+            LCID            =   1033
+            SubFormatType   =   1
+         EndProperty
+      EndProperty
+      BeginProperty Column06 
+         DataField       =   "LName"
+         Caption         =   "Part Local Name"
+         BeginProperty DataFormat {6D835690-900B-11D0-9484-00A0C91110ED} 
+            Type            =   0
+            Format          =   ""
+            HaveTrueFalseNull=   0
+            FirstDayOfWeek  =   0
+            FirstWeekOfYear =   0
+            LCID            =   1033
+            SubFormatType   =   0
+         EndProperty
+      EndProperty
+      SplitCount      =   1
+      BeginProperty Split0 
+         MarqueeStyle    =   3
+         SizeMode        =   1
+         AllowFocus      =   0   'False
+         AllowRowSizing  =   0   'False
+         AllowSizing     =   0   'False
+         Locked          =   -1  'True
+         BeginProperty Column00 
+            ColumnWidth     =   1620.284
+         EndProperty
+         BeginProperty Column01 
+            ColumnWidth     =   2654.929
+         EndProperty
+         BeginProperty Column02 
+            ColumnWidth     =   494.929
+         EndProperty
+         BeginProperty Column03 
+            Alignment       =   1
+            ColumnWidth     =   1005.165
+         EndProperty
+         BeginProperty Column04 
+            Alignment       =   1
+            ColumnWidth     =   1005.165
+         EndProperty
+         BeginProperty Column05 
+            Alignment       =   1
+            ColumnWidth     =   1005.165
+         EndProperty
+         BeginProperty Column06 
+            ColumnWidth     =   2564.788
+         EndProperty
+      EndProperty
+   End
+   Begin VB.TextBox txt 
+      Appearance      =   0  'Flat
+      BorderStyle     =   0  'None
+      Enabled         =   0   'False
+      BeginProperty Font 
+         Name            =   "Arial"
+         Size            =   9
+         Charset         =   0
+         Weight          =   700
+         Underline       =   0   'False
+         Italic          =   0   'False
+         Strikethrough   =   0   'False
+      EndProperty
+      Height          =   255
+      Index           =   27
+      Left            =   7155
+      MaxLength       =   11
+      TabIndex        =   8
+      TabStop         =   0   'False
+      Top             =   510
+      Width           =   1305
+   End
+   Begin MSDataGridLib.DataGrid DGGodown 
+      Height          =   3330
+      Left            =   3615
+      Negotiate       =   -1  'True
+      TabIndex        =   54
+      TabStop         =   0   'False
+      Top             =   7290
+      Visible         =   0   'False
+      Width           =   5910
+      _ExtentX        =   10425
+      _ExtentY        =   5874
+      _Version        =   393216
+      AllowUpdate     =   0   'False
+      AllowArrows     =   -1  'True
+      Appearance      =   0
+      BackColor       =   12640511
+      BorderStyle     =   0
+      Enabled         =   -1  'True
+      ColumnHeaders   =   -1  'True
+      ForeColor       =   8388608
+      HeadLines       =   1
+      RowHeight       =   18
+      WrapCellPointer =   -1  'True
+      RowDividerStyle =   0
+      FormatLocked    =   -1  'True
+      BeginProperty HeadFont {0BE35203-8F91-11CE-9DE3-00AA004BB851} 
+         Name            =   "MS Sans Serif"
+         Size            =   9.75
+         Charset         =   0
+         Weight          =   400
+         Underline       =   0   'False
+         Italic          =   0   'False
+         Strikethrough   =   0   'False
+      EndProperty
+      BeginProperty Font {0BE35203-8F91-11CE-9DE3-00AA004BB851} 
+         Name            =   "Courier New"
+         Size            =   9
+         Charset         =   0
+         Weight          =   400
+         Underline       =   0   'False
+         Italic          =   0   'False
+         Strikethrough   =   0   'False
+      EndProperty
+      ColumnCount     =   2
+      BeginProperty Column00 
+         DataField       =   "Name"
+         Caption         =   "Godown Name"
+         BeginProperty DataFormat {6D835690-900B-11D0-9484-00A0C91110ED} 
+            Type            =   0
+            Format          =   ""
+            HaveTrueFalseNull=   0
+            FirstDayOfWeek  =   0
+            FirstWeekOfYear =   0
+            LCID            =   1033
+            SubFormatType   =   0
+         EndProperty
+      EndProperty
+      BeginProperty

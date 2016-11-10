@@ -1,0 +1,82 @@
+; Field definition file for table: ADORecordset
+INTD_USE	string	20	string sample value
+Tot_Amount	number		1.00
+vrate	number		1.00
+Mfg_Month	string	9	string sample value
+Mfg_Yr	string	4	string sample value
+CertiPrn_YN	byte		1
+TCertiPrn_YN	byte		1
+FPrefix	string	4	string sample value
+FName	string	40	string sample value
+TCity	string	25	string sample value
+TAdd1	string	40	string sample value
+TAdd2	string	40	string sample value
+TAdd3	string	40	string sample value
+Phone	string	39	string sample value
+TPIN	string	6	string sample value
+Inv_DocId	string	21	string sample value
+Inv_Date	string	11	string sample value
+Fund_Source	byte		1
+P_AMOUNT	number		1.00
+DelCh_DT	datetime		Jan 5, 1994 1:23:45 PM
+RTO	string	20	string sample value
+ModelGrp_Name	string	15	string sample value
+CityName	string	25	string sample value
+FinCity	string	25	string sample value
+Name	string	40	string sample value
+Col_Desc	string	20	string sample value
+MODEL	string	15	string sample value
+Vehicle_Type	string	15	string sample value
+Model_Desc	string	50	string sample value
+Model_Desc1	string	50	string sample value
+Model_Desc2	string	50	string sample value
+Wheel_Catg	string	10	string sample value
+TYRES	byte		1
+TYRE_F	byte		1
+TYRE_M	byte		1
+TYRE_R	byte		1
+TYRE_FS	string	15	string sample value
+TYRE_MS	string	15	string sample value
+TYRE_RS	string	15	string sample value
+TyreDetails	string	30	string sample value
+SEAT	byte		1
+RLW	string	15	string sample value
+HORSEPOWER	string	10	string sample value
+FRONT_A_WT	string	15	string sample value
+REAR_A_WT	string	15	string sample value
+UNLADEN_WT	string	15	string sample value
+GROSS_WT	string	15	string sample value
+WHEELBASE	short		1
+CYLINDER	byte		1
+FUEL	string	10	string sample value
+TRADE_NO	string	35	string sample value
+Manufacturer	string	50	string sample value
+ChassisNo	string	20	string sample value
+EngineNo	string	20	string sample value
+FinBankName	string	50	string sample value
+FinName	string	50	string sample value
+FAdd1	string	40	string sample value
+Fadd2	string	40	string sample value
+FPin	string	6	string sample value
+Add1	string	40	string sample value
+Add2	string	40	string sample value
+Add3	string	40	string sample value
+PIN	string	6	string sample value
+Inv_UName	string	10	string sample value
+Inv_UEntDt	datetime		Jan 5, 1994 1:23:45 PM
+TypeOfBody	string	40	string sample value
+Certi_No	string	30	string sample value
+pMobile	string	24	string sample value
+Owner1	string	50	string sample value
+Owner2	string	50	string sample value
+Owner3	string	50	string sample value
+Owner4	string	50	string sample value
+Owner5	string	50	string sample value
+Owner6	string	50	string sample value
+Owner7	string	50	string sample value
+PoliceStation	string	50	string sample value
+UnderControl	string	60	string sample value
+RefNo	string	40	string sample value
+CsdIndexNo	string	20	string sample value
+Net_Amount	number		1.00
+SaleRateTP	number		1.00

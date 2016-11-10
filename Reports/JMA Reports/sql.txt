@@ -1,0 +1,120 @@
+UPDATE dbo.Model_Cat
+SET ModelCat_Code = '1'
+	,OldCode = '1'
+WHERE ModelCat_Code = '1'
+GO
+
+UPDATE dbo.Model_Cat
+SET ModelCat_Code = '2'
+	,OldCode = '1'
+WHERE ModelCat_Code = '2'
+GO
+
+UPDATE dbo.Model_Cat
+SET ModelCat_Code = '4'
+	,OldCode = '3'
+WHERE ModelCat_Code = '4'
+GO
+
+UPDATE dbo.Model_Cat
+SET ModelCat_Code = '5'
+	,OldCode = '1'
+WHERE ModelCat_Code = '5'
+GO
+
+UPDATE dbo.Model_Cat
+SET ModelCat_Code = '6'
+	,OldCode = '1'
+WHERE ModelCat_Code = '6'
+GO
+
+UPDATE dbo.Model_Cat
+SET ModelCat_Code = 'C10'
+	,OldCode = '3'
+WHERE ModelCat_Code = 'C10'
+GO
+
+UPDATE dbo.Model_Cat
+SET ModelCat_Code = 'C11'
+	,OldCode = '4'
+WHERE ModelCat_Code = 'C11'
+GO
+
+UPDATE dbo.Model_Cat
+SET ModelCat_Code = 'C12'
+	,OldCode = '8'
+WHERE ModelCat_Code = 'C12'
+GO
+
+UPDATE dbo.Model_Cat
+SET ModelCat_Code = 'C13'
+	,OldCode = '3'
+WHERE ModelCat_Code = 'C13'
+GO
+
+UPDATE dbo.Model_Cat
+SET ModelCat_Code = 'C15'
+	,OldCode = '5'
+WHERE ModelCat_Code = 'C15'
+GO
+
+UPDATE dbo.Model_Cat
+SET ModelCat_Code = 'C16'
+	,OldCode = '9'
+WHERE ModelCat_Code = 'C16'
+GO
+
+UPDATE dbo.Model_Cat
+SET ModelCat_Code = 'C18'
+	,OldCode = '7'
+WHERE ModelCat_Code = 'C18'
+GO
+
+UPDATE dbo.Model_Cat
+SET ModelCat_Code = 'C19'
+	,OldCode = '8'
+WHERE ModelCat_Code = 'C19'
+GO
+
+UPDATE dbo.Model_Cat
+SET ModelCat_Code = 'C20'
+	,OldCode = '6'
+WHERE ModelCat_Code = 'C20'
+GO
+
+UPDATE dbo.Model_Cat
+SET ModelCat_Code = 'C21'
+	,OldCode = '8'
+WHERE ModelCat_Code = 'C21'
+GO
+
+UPDATE dbo.Model_Cat
+SET ModelCat_Code = 'C22'
+	,OldCode = '9'
+WHERE ModelCat_Code = 'C22'
+GO
+
+UPDATE dbo.Model_Cat
+SET ModelCat_Code = 'C23'
+	,OldCode = '8'
+WHERE ModelCat_Code = 'C23'
+GO
+
+UPDATE dbo.Model_Cat
+SET ModelCat_Code = 'C24'
+	,OldCode = '1'
+WHERE ModelCat_Code = 'C24'
+GO
+
+UPDATE dbo.Model_Cat
+SET ModelCat_Code = 'C26'
+	,OldCode = '2'
+WHERE ModelCat_Code = 'C26'
+GO
+
+UPDATE dbo.Model_Cat
+SET ModelCat_Code = 'CS'
+	,OldCode = '1'
+WHERE ModelCat_Code = 'CS'
+GO
+

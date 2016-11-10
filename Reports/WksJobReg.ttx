@@ -1,0 +1,29 @@
+; Field definition file for table: ADORecordset
+DocId_InvSpr	string	21	string sample value
+DocId_InvLab	string	21	string sample value
+Job_Date	datetime		Jan 5, 1994 1:23:45 PM
+Job_No	long		1
+DocId	string	21	string sample value
+JobCloseDate	datetime		Jan 5, 1994 1:23:45 PM
+Name	string	40	string sample value
+Serv_Type	string	2	string sample value
+Serv_Desc	string	20	string sample value
+NetLab_Amt	number		1.00
+RegNo	string	14	string sample value
+Model	string	25	string sample value
+Chassis	string	20	string sample value
+PDILabour	number		1.00
+FreeLabour	number		1.00
+ChrgLabour	number		1.00
+War_Lab_Rate	number		1.00
+LabourAmt	number		1.00
+Major_YN	long		1
+External_YN	long		1
+Amount	number		1.00
+Net_Amt	number		1.00
+Total_Amt	number		1.00
+Purpose	string	1	string sample value
+Lub_Category	string	1	string sample value
+V_No	long		1
+MisCharged	number		1.00
+Emp_Name	string	40	string sample value

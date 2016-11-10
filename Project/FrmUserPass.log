@@ -1,0 +1,17 @@
+Line 121: Class MSDataGridLib.DataGrid of control DGHelp was not a loaded control class.
+Line 130: The property name _ExtentX in DGHelp is invalid.
+Line 131: The property name _ExtentY in DGHelp is invalid.
+Line 132: The property name _Version in DGHelp is invalid.
+Line 133: The property name AllowUpdate in DGHelp is invalid.
+Line 134: The property name AllowArrows in DGHelp is invalid.
+Line 139: The property name ColumnHeaders in DGHelp is invalid.
+Line 141: The property name HeadLines in DGHelp is invalid.
+Line 142: The property name RowHeight in DGHelp is invalid.
+Line 143: The property name WrapCellPointer in DGHelp is invalid.
+Line 144: The property name RowDividerStyle in DGHelp is invalid.
+Line 145: The property name FormatLocked in DGHelp is invalid.
+Line 154: The property name HeadFont in DGHelp is invalid.
+Line 164: The property name ColumnCount in DGHelp is invalid.
+Line 177: The property name Column00 in DGHelp is invalid.
+Line 178: The property name SplitCount in DGHelp is invalid.
+Line 189: The property name Split0 in DGHelp is invalid.
